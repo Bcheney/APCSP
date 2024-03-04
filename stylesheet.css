@@ -1,0 +1,17 @@
+            .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: green;
+                color:blue;
+                font-family:  monospace;
+            }
+           
+ 
+            .section {
+               background-color: #E9E2FA;
+               padding: 20px;
+               margin-top: 30px;
+               color:red;
+                               font-family:  monospace;
+            }
